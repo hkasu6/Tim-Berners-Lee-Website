@@ -98,3 +98,15 @@ p {
 .links:hover {
     background-color: deeppink;
 }
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: blueviolet;
+}
+
+html {
+    scroll-behavior: smooth;
+}
